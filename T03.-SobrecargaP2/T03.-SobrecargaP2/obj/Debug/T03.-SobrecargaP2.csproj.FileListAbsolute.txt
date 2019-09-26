@@ -1,0 +1,6 @@
+C:\Users\david\source\repos\T03.-SobrecargaP2\T03.-SobrecargaP2\bin\Debug\T03.-SobrecargaP2.exe.config
+C:\Users\david\source\repos\T03.-SobrecargaP2\T03.-SobrecargaP2\bin\Debug\T03.-SobrecargaP2.exe
+C:\Users\david\source\repos\T03.-SobrecargaP2\T03.-SobrecargaP2\bin\Debug\T03.-SobrecargaP2.pdb
+C:\Users\david\source\repos\T03.-SobrecargaP2\T03.-SobrecargaP2\obj\Debug\T03.-SobrecargaP2.csprojAssemblyReference.cache
+C:\Users\david\source\repos\T03.-SobrecargaP2\T03.-SobrecargaP2\obj\Debug\T03.-SobrecargaP2.exe
+C:\Users\david\source\repos\T03.-SobrecargaP2\T03.-SobrecargaP2\obj\Debug\T03.-SobrecargaP2.pdb
